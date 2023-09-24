@@ -15,7 +15,7 @@ An in-depth paragraph about your project and overview of use.
 ### 💻 Instalação / Installing
 
 * Faça o download [aqui](https://ernakh.itch.io/quizglacial)
-* Descompacte o arquivo com um programa como o Winrar, Winzio e 7zip.
+* Descompacte o arquivo com um programa como o Winrar, Winzip e 7zip.
 * Na pasta descompactada, execute o arquivo "Quiz Glacial.exe"
 
 

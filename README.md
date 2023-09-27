@@ -23,14 +23,6 @@ An in-depth paragraph about your project and overview of use.
 
 [Fabrício Tonetto Londero](https://linktr.ee/fabriciolondero)
 
-## 🚀 Histórico de Versões / Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
 ## 📝 Licença/License
 
 Este projeto está licenciado sob a Licença de Fabrício Tonetto Londero - veja o arquivo LICENSE.md para detalhes. / This project is licensed under the Fabrício Tonetto Londero License - see the LICENSE.md file for details.

@@ -8,7 +8,11 @@ Simple overview of use/purpose.
 
 ## 📚 Descrição / Description
 
-An in-depth paragraph about your project and overview of use.
+O "Quiz Glacial" é um jogo educativo desenvolvido com a plataforma de desenvolvimento de jogos Unity, projetado para fornecer uma experiência de aprendizado envolvente e divertida para estudantes de todas as idades. Sua temática é ambientada em um cenário gélido, com neve e pinguins, criando um ambiente amigável e seguro para os jogadores. O jogo oferece uma variedade de desafios de múltipla escolha, cada um associado a uma caixa que os jogadores precisam encontrar no cenário. Essas caixas contêm questões cadastradas por professores, abrangendo uma ampla gama de tópicos e disciplinas. Os jogadores são incentivados a interagir com as caixas, abrir uma interface de pergunta e escolher a resposta correta para ganhar pontos. O "Quiz Glacial" é uma ferramenta educacional flexível, permitindo que os educadores personalizem o conteúdo das questões de acordo com as necessidades de seus alunos. Além disso, como um Recurso Educacional Aberto (REA), o jogo segue os princípios dos REA, fornecendo liberdade para reter, reutilizar, revisar, remixar e redistribuir seu conteúdo, tornando-o altamente adaptável e acessível para diferentes contextos educacionais.
+
+/
+
+"Quiz Glacial" is an educational game powered by the Unity game development platform, designed to provide an engaging and fun learning experience for students of all ages. Its theme is set in a cold setting, with snow and penguins, creating a friendly and safe environment for players. The game offers a variety of multiple-choice challenges, each associated with a box that players need to find in the scenario. These boxes contain questions registered by teachers, covering a wide range of topics and disciplines. Players are encouraged to interact with boxes, open a question interface, and choose the correct answer to earn points. "Quiz Glacial" is a flexible educational tool, allowing educators to customize question content according to the needs of their students. Furthermore, as an Open Educational Resource (OER), the game follows OER principles, providing freedom to retain, reuse, revise, remix and redistribute its content, making it highly adaptable and accessible for different educational contexts.
 
 ## 📄 Iniciando / Getting Started
 

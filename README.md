@@ -43,6 +43,7 @@ Este projeto está licenciado sob a Licença de Fabrício Tonetto Londero - veja
 * [Heal sound by taikodrum](https://freesound.org/people/taikodrum/sounds/644306/)
 * [Grab Item ](https://freesound.org/people/1bob/sounds/651515/)
 * [Jump ](https://freesound.org/people/cabled_mess/sounds/350906/)
+* [Artes dos menus por Graziela Frainer Knoll](https://linktr.ee/grazifk)
 * [Buttons sound 1 by ZenithInfinitiveStudios](https://freesound.org/people/ZenithInfinitiveStudios/sounds/376746/)
 * [Buttons sound 2 by avreference](https://freesound.org/people/avreference/sounds/634784/)
 * [Buttons sound 3 by JuanFG](https://freesound.org/people/JuanFG/sounds/471911/)
@@ -52,7 +53,6 @@ Este projeto está licenciado sob a Licença de Fabrício Tonetto Londero - veja
 * [Congrats sound by Fupicat](https://freesound.org/people/Fupicat/sounds/607207/)
 * [Profª Drª Elena Maria Mallmann pelas orientações](http://lattes.cnpq.br/4353719005526350)
 * [GEPETER](https://gepeter.proj.ufsm.br/repositorio/)
-* [Artes dos menus por Graziela Frainer Knoll](https://linktr.ee/grazifk)
 
 ## ⭐Agradecimentos Especiais / Especial Acknowledgments
 
